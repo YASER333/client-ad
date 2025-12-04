@@ -1,0 +1,2 @@
+/* App.css is intentionally minimal � it re-exports the split styles from src/styles/index.css */
+@import './styles/index.css';

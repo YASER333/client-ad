@@ -1,0 +1,24 @@
+:root {
+  --primary: #BF124D;
+  --primary-light: #e6397a;
+  --primary-dark: #8a0a36;
+  --secondary: #2A9D8F;
+  --accent: #E9C46A;
+  --dark: #264653;
+  --light: #f8f9fa;
+  --gray: #6c757d;
+  --gray-light: #e9ecef;
+  --success: #2A9D8F;
+  --warning: #E9C46A;
+  --danger: #E76F51;
+  --border-radius: 12px;
+  --shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  --transition: all 0.3s ease;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

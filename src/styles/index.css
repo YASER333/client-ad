@@ -1,0 +1,7 @@
+/* Central stylesheet that imports all split files in the recommended order */
+@import './variables.css';
+@import './base.css';
+@import './layout.css';
+@import './components.css';
+@import './pages.css';
+@import './responsive.css';
